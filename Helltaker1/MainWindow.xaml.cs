@@ -26,6 +26,10 @@ namespace Helltaker1
     /// <summary>
     /// MainWindow.xaml에 대한 상호 작용 논리
     /// </summary>
+    /// 
+
+    //test
+
     public partial class MainWindow : Window
     {
         Bitmap original;
